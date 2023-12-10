@@ -1,0 +1,99 @@
+div h2 span{
+  color: #3d535f;
+}
+div h2{
+  color: blueviolet;
+}
+#home{
+  height: 100vh;
+  align-items: center;
+  background-color: rgba(78, 78, 78, 0.09);
+  backdrop-filter: blur(50px);
+}
+#about .about{
+  padding-left: 100px;
+  margin-left: 30%;
+  border-radius: 10px;
+  
+}
+#about .his {
+  color: black;
+}
+#about .his span{
+  color: #3d535f;
+}
+#about .his h1{
+  color: blueviolet;
+}
+#about{
+  height:90vh;
+}
+#about .so{
+  margin-left: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+
+}
+#skills{
+  height:95vh;
+}
+#skills h1{
+margin-left: 30%;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+}
+img{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+#future h1{
+ margin-left: 30%;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+}
+#future{
+  height:100vh;
+}
+#future .row div{
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+#future .row div p{
+  padding-left: 0;
+}
+#contact h1{
+  margin-left: 30%;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+}
+#contact{
+  margin-top: 50px;
+  
+}
+form input{
+  border-radius: 5px;
+  margin: 5px;
+}
+.footer{
+  height: 5vh;
+  background-color: rgba(78, 78, 78, 0.09);
+  backdrop-filter: blur(50px);
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+button{
+  color: white;
+  border-radius: 5px;
+}
+
+
